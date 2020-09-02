@@ -1,0 +1,48 @@
+2020-08-27 14:03:23 jdbc[12]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column """CONTENT"" VARCHAR(255) NOT NULL": "'Post by Shakib.Post by Shakib.Post by Shakib.Post by Shakib.Post by Shakib.Post by Shakib.Post by Shakib.Post by Shakib.Post by... (300)"; SQL statement:
+insert into post (id, version, user_name, content) values (null, ?, ?, ?) [22001-199]
+2020-08-27 14:03:32 jdbc[12]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column """CONTENT"" VARCHAR(255) NOT NULL": "'Post by Shakib.Post by Shakib.Post by Shakib.Post by Shakib.Post by Shakib.Post by Shakib.Post by Shakib.Post by Shakib.Post by... (300)"; SQL statement:
+insert into post (id, version, user_name, content) values (null, ?, ?, ?) [22001-199]
+2020-08-27 14:03:33 jdbc[12]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column """CONTENT"" VARCHAR(255) NOT NULL": "'Post by Shakib.Post by Shakib.Post by Shakib.Post by Shakib.Post by Shakib.Post by Shakib.Post by Shakib.Post by Shakib.Post by... (300)"; SQL statement:
+insert into post (id, version, user_name, content) values (null, ?, ?, ?) [22001-199]
+2020-08-27 14:03:35 jdbc[12]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column """CONTENT"" VARCHAR(255) NOT NULL": "'Post by Shakib.Post by Shakib.Post by Shakib.Post by Shakib.Post by Shakib.Post by Shakib.Post by Shakib.Post by Shakib.Post by... (300)"; SQL statement:
+insert into post (id, version, user_name, content) values (null, ?, ?, ?) [22001-199]
+2020-08-27 14:41:27 jdbc[12]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column """CONTENT"" VARCHAR(255) NOT NULL": "'Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib.... (319)"; SQL statement:
+insert into post (id, version, user_name, content) values (null, ?, ?, ?) [22001-199]
+2020-08-27 14:41:46 jdbc[12]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column """CONTENT"" VARCHAR(255) NOT NULL": "'Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib.... (319)"; SQL statement:
+insert into post (id, version, user_name, content) values (null, ?, ?, ?) [22001-199]
+2020-08-27 14:41:47 jdbc[12]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column """CONTENT"" VARCHAR(255) NOT NULL": "'Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib.... (319)"; SQL statement:
+insert into post (id, version, user_name, content) values (null, ?, ?, ?) [22001-199]
+2020-08-27 14:41:47 jdbc[11]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column """CONTENT"" VARCHAR(255) NOT NULL": "'Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib.... (319)"; SQL statement:
+insert into post (id, version, user_name, content) values (null, ?, ?, ?) [22001-199]
+2020-08-27 14:41:47 jdbc[10]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column """CONTENT"" VARCHAR(255) NOT NULL": "'Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib.... (319)"; SQL statement:
+insert into post (id, version, user_name, content) values (null, ?, ?, ?) [22001-199]
+2020-08-27 14:41:48 jdbc[9]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column """CONTENT"" VARCHAR(255) NOT NULL": "'Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib.... (319)"; SQL statement:
+insert into post (id, version, user_name, content) values (null, ?, ?, ?) [22001-199]
+2020-08-27 14:41:48 jdbc[12]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column """CONTENT"" VARCHAR(255) NOT NULL": "'Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib.... (319)"; SQL statement:
+insert into post (id, version, user_name, content) values (null, ?, ?, ?) [22001-199]
+2020-08-27 14:41:48 jdbc[8]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column """CONTENT"" VARCHAR(255) NOT NULL": "'Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib.... (319)"; SQL statement:
+insert into post (id, version, user_name, content) values (null, ?, ?, ?) [22001-199]
+2020-08-27 14:41:48 jdbc[7]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column """CONTENT"" VARCHAR(255) NOT NULL": "'Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib.... (319)"; SQL statement:
+insert into post (id, version, user_name, content) values (null, ?, ?, ?) [22001-199]
+2020-08-27 14:41:49 jdbc[11]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column """CONTENT"" VARCHAR(255) NOT NULL": "'Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib.... (319)"; SQL statement:
+insert into post (id, version, user_name, content) values (null, ?, ?, ?) [22001-199]
+2020-08-27 14:41:56 jdbc[7]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column """CONTENT"" VARCHAR(255) NOT NULL": "'Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib.... (319)"; SQL statement:
+insert into post (id, version, user_name, content) values (null, ?, ?, ?) [22001-199]
+2020-08-27 14:53:47 jdbc[12]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column """CONTENT"" VARCHAR(255) NOT NULL": "'Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib. Post by Shakib.... (319)"; SQL statement:
+insert into post (id, version, user_name, content) values (null, ?, ?, ?) [22001-199]
